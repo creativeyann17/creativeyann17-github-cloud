@@ -4,6 +4,6 @@ The Micronaut API related to my personal web-site currently running on **Google 
 
 Technologies used:
 
-Micronaut
-Google Cloud App Engine
-Netty
+- Micronaut
+- Google Cloud App Engine
+- Netty
